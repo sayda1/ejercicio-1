@@ -1,15 +1,18 @@
 # ejercicio-1
 Inicio:Sumar de dos numeros
 
-##Inggreso de datos
+## Ingreso datos
 
 -numero1
 -numero2
+-numero3
 -resultado 
 
-##Proseso
+## Proseso
 
 -pedir numero1
 -pedir numero2
 -sumar numero1 con numero2 y almacenar en resultado
-mostrar resultado
+-mostrar resultado
+
+*fin*
