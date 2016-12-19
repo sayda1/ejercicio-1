@@ -15,4 +15,4 @@ Inicio:Sumar de dos numeros
 - sumar numero1 con numero2 y almacenar en resultado
 - mostrar resultado
 
-* fin *
+*fin*
